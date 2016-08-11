@@ -1,0 +1,14 @@
+layout_spectrum: 0.9423317962791771
+typography_spectrum: 0.2031266416888684
+color:
+  brandStrength: 0.6030098695773631
+  lightness: 0.0886631547473371
+  saturation: 0.5896736250724643
+  rhythmicContrast: 0.6058138241060078
+  brandColors:
+    - '#012326'
+    - '#F5F5F5'
+    - '#6BAC94'
+    - '#E78771'
+    - '#467D6E'
+name: EebsOnTheGrid
